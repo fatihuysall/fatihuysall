@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Fatih Uysal</h1>
-<h3 align="left">Kotlin Mobile Developer (JR) </h3>
+<h3 align="left">Kotlin Mobile Developer (jr) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
