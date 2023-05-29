@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih Uysal</h1>
+Hi 👋, I'm Fatih Uysal</h1>
 Kotlin Mobile Developer (JR) </h3>
 
 <h3 align="left">Connect with me:</h3>
